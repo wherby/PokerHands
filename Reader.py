@@ -49,8 +49,13 @@ class Hand:
         self.type=""
         self.time=""
         #print lines;
-        self.states=[]
+        self.preflop=[]
+        self.flop=[]
+        self.turn=[]
+        self.river=[]
+        self.showdown=[]
         self.summary=[]
+        
 
     def getNumber(self):
         m = re.match(r'(.*)(Hand #)(\d*)(:)(.*?)(-)(.*)(Table)(.*)', self.lines[0])
@@ -62,45 +67,49 @@ class Hand:
             self.ID=m.group(3)
 
     def getHeros(self):
+        status=0
         for line in self.lines:
             m = re.match(r'(Seat \d: )(\w*) (.*)',line);
             if m!=None:
                 if self.heros.count(m.group(2))==0:
                     self.heros.append(m.group(2))         
-            pass
+            if line.find(PREFLOPSTR) >= 0:
+                status = 1
+                continue
+            if line.find(FLOPSTR) >= 0:
+                status = 2 
+                continue
+            if line.find(TURNSTR) >= 0:
+                status = 3 
+                continue
+            if line.find(RIVERSTR) >= 0:
+                status = 4 
+                continue
+            if line.find(SHOWHANDSTR) >= 0:
+                status = 5 
+                continue
+            if line.find(SUMMERSTR) >= 0:
+                status = 6 
+                continue
+            if status == 1:
+                self.preflop.append(line)
+            if status == 2:
+                self.flop.append(line)
+            if status == 3:
+                self.turn.append(line)
+            if status == 4:
+                self.river.append(line)
+            if status == 5:
+                self.showdown.append(line)
+            if status == 6:
+                self.summary.append(line)
+                 
 
-    def getStates(self):
-        temp="";
-        start=0;
-        num=0;
-        for line in self.lines:
-            num=num+1;
-            if start==1:
-                if line.find("***")<0:
-                    if temp=="":
-                        temp=line.strip();
-                    else:
-                        temp=temp+line;
-                else:
-                    self.states.append(temp);
-                    temp="";
-            if start==2:
-                if temp=="":
-                    temp=line.strip();
-                else:
-                    temp=temp+line;
-                if num==len(self.lines):
-                    self.summary.append(temp);
-                    temp="";     
-            if line.find("*** HOLE CARDS ***")>=0:
-                start=1;
-            if line.find("*** SUMMARY ***")>=0:
-                start=2;
-            
             
 
     def __str__(self):
         pprint(vars(self))
+        return "object printed"
 
 if __name__=="__main__":
     temp=ReadFile(".\HandHistory\scuipio\HH20121012 Halley - $0.01-$0.02 - USD No Limit Hold'em.txt")
@@ -113,8 +122,4 @@ if __name__=="__main__":
     a.getNumber();
     a.getHeros();
     print a;
-    a.getStates();
-    print TEST
-    #print "states number of a: "+str(len(a.states))
-    #print "summary of a: "+a.summary[0]
-    
+

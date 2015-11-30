@@ -1,5 +1,5 @@
 TEST = "GLOBALVaR"
-PREFLOP = "*** HOLE CARDS ***"
+PREFLOPSTR = "*** HOLE CARDS ***"
 FLOPSTR="*** FLOP ***"
 TURNSTR="*** TURN ***"
 RIVERSTR="*** RIVER ***"
