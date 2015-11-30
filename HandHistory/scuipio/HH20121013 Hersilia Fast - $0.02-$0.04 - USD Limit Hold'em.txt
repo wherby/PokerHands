@@ -1,0 +1,408 @@
+﻿PokerStars Hand #87576461475:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:00:17 ET
+Table 'Hersilia' 6-max Seat #6 is the button
+Seat 1: Budulay6776 ($0.29 in chips) 
+Seat 3: scuipio ($0.40 in chips) 
+Seat 4: dandan5545 ($0.11 in chips) 
+Seat 6: dagestan505 ($0.79 in chips) 
+Budulay6776: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [7s 9c]
+dagestan505 said, "nh"
+dandan5545: folds 
+dagestan505: raises $0.02 to $0.04
+Budulay6776: calls $0.03
+scuipio: folds 
+*** FLOP *** [7h 5d 9h]
+Budulay6776: checks 
+dagestan505: checks 
+*** TURN *** [7h 5d 9h] [Th]
+Budulay6776: bets $0.04
+dagestan505: calls $0.04
+*** RIVER *** [7h 5d 9h Th] [Ts]
+Budulay6776: bets $0.04
+dagestan505: raises $0.04 to $0.08
+Budulay6776: calls $0.04
+*** SHOW DOWN ***
+dagestan505: shows [Ad Td] (three of a kind, Tens)
+Budulay6776: mucks hand 
+dagestan505 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [7h 5d 9h Th Ts]
+Seat 1: Budulay6776 (small blind) mucked [Ah 9d]
+Seat 3: scuipio (big blind) folded before Flop
+Seat 4: dandan5545 folded before Flop (didn't bet)
+Seat 6: dagestan505 (button) showed [Ad Td] and won ($0.33) with three of a kind, Tens
+
+
+
+PokerStars Hand #87576467779:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:00:45 ET
+Table 'Hersilia' 6-max Seat #1 is the button
+Seat 1: Budulay6776 ($0.13 in chips) 
+Seat 3: scuipio ($0.38 in chips) 
+Seat 4: dandan5545 ($0.11 in chips) 
+Seat 6: dagestan505 ($0.96 in chips) 
+scuipio: posts small blind $0.01
+dandan5545: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [3d Kd]
+dagestan505: calls $0.02
+Budulay6776: calls $0.02
+scuipio: calls $0.01
+dandan5545: checks 
+*** FLOP *** [6d 4s Ah]
+scuipio: checks 
+dandan5545: checks 
+dagestan505: checks 
+Budulay6776: checks 
+*** TURN *** [6d 4s Ah] [Qc]
+scuipio: checks 
+dandan5545: checks 
+dagestan505: bets $0.04
+Budulay6776: folds 
+scuipio: folds 
+dandan5545: folds 
+Uncalled bet ($0.04) returned to dagestan505
+dagestan505 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6d 4s Ah Qc]
+Seat 1: Budulay6776 (button) folded on the Turn
+Seat 3: scuipio (small blind) folded on the Turn
+Seat 4: dandan5545 (big blind) folded on the Turn
+Seat 6: dagestan505 collected ($0.08)
+
+
+
+PokerStars Hand #87576475430:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:01:16 ET
+Table 'Hersilia' 6-max Seat #3 is the button
+Seat 1: Budulay6776 ($0.11 in chips) 
+Seat 3: scuipio ($0.36 in chips) 
+Seat 4: dandan5545 ($0.09 in chips) 
+Seat 6: dagestan505 ($1.02 in chips) 
+dandan5545: posts small blind $0.01
+dagestan505: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [4s 9s]
+Budulay6776: calls $0.02
+scuipio: folds 
+dandan5545: calls $0.01
+dagestan505: raises $0.02 to $0.04
+Budulay6776: calls $0.02
+dandan5545: calls $0.02
+*** FLOP *** [8s Kc 7d]
+dandan5545: bets $0.02
+dagestan505: raises $0.02 to $0.04
+Budulay6776: calls $0.04
+dandan5545: calls $0.02
+*** TURN *** [8s Kc 7d] [3h]
+dandan5545: bets $0.01 and is all-in
+dagestan505 said, "vsem poka"
+dagestan505: raises $0.03 to $0.04
+Budulay6776: calls $0.03 and is all-in
+Uncalled bet ($0.01) returned to dagestan505
+*** RIVER *** [8s Kc 7d 3h] [2d]
+*** SHOW DOWN ***
+dagestan505: shows [Kh Kd] (three of a kind, Kings)
+Budulay6776: shows [Jh 7h] (a pair of Sevens)
+dagestan505 collected $0.04 from side pot
+dandan5545: shows [6d 5c] (high card King)
+dagestan505 collected $0.26 from main pot
+*** SUMMARY ***
+Total pot $0.31 Main pot $0.26. Side pot $0.04. | Rake $0.01 
+Board [8s Kc 7d 3h 2d]
+Seat 1: Budulay6776 showed [Jh 7h] and lost with a pair of Sevens
+Seat 3: scuipio (button) folded before Flop (didn't bet)
+Seat 4: dandan5545 (small blind) showed [6d 5c] and lost with high card King
+Seat 6: dagestan505 (big blind) showed [Kh Kd] and won ($0.30) with three of a kind, Kings
+
+
+
+PokerStars Hand #87576487695:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:02:05 ET
+Table 'Hersilia' 6-max Seat #6 is the button
+Seat 3: scuipio ($0.36 in chips) 
+Seat 6: dagestan505 ($1.21 in chips) 
+dagestan505: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Qd 9c]
+dagestan505: calls $0.01
+scuipio: raises $0.02 to $0.04
+dandan5545 leaves the table
+dagestan505: calls $0.02
+*** FLOP *** [2d 4d 7h]
+scuipio: bets $0.02
+dagestan505: calls $0.02
+*** TURN *** [2d 4d 7h] [Ks]
+scuipio: bets $0.04
+dagestan505: calls $0.04
+*** RIVER *** [2d 4d 7h Ks] [Ts]
+scuipio: bets $0.04
+dagestan505: folds [6d 8d]
+Uncalled bet ($0.04) returned to scuipio
+scuipio collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d 4d 7h Ks Ts]
+Seat 3: scuipio (big blind) collected ($0.19)
+Seat 6: dagestan505 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #87576493768:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:02:27 ET
+Table 'Hersilia' 6-max Seat #3 is the button
+Seat 3: scuipio ($0.45 in chips) 
+Seat 6: dagestan505 ($1.11 in chips) 
+scuipio: posts small blind $0.01
+dagestan505: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [8c Ah]
+scuipio: calls $0.01
+dagestan505: checks 
+*** FLOP *** [Ks 2c 6d]
+dagestan505: checks 
+scuipio: checks 
+*** TURN *** [Ks 2c 6d] [Tc]
+dagestan505: bets $0.04
+scuipio: folds 
+Uncalled bet ($0.04) returned to dagestan505
+dagestan505 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks 2c 6d Tc]
+Seat 3: scuipio (button) (small blind) folded on the Turn
+Seat 6: dagestan505 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #87576497228:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:02:41 ET
+Table 'Hersilia' 6-max Seat #3 is the button
+Seat 1: Budulay6776 ($0.21 in chips) 
+Seat 3: scuipio ($0.43 in chips) 
+Seat 6: dagestan505 ($1.13 in chips) 
+dagestan505: posts small blind $0.01
+Budulay6776: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [5d Ah]
+scuipio: calls $0.02
+dagestan505: calls $0.01
+Budulay6776: checks 
+*** FLOP *** [Kh Ad 4h]
+dagestan505: bets $0.02
+Budulay6776: folds 
+scuipio: raises $0.02 to $0.04
+dagestan505: calls $0.02
+*** TURN *** [Kh Ad 4h] [6s]
+dagestan505: checks 
+scuipio: bets $0.04
+dagestan505: calls $0.04
+*** RIVER *** [Kh Ad 4h 6s] [Qd]
+dagestan505: checks 
+scuipio: bets $0.04
+dagestan505: calls $0.04
+*** SHOW DOWN ***
+scuipio: shows [5d Ah] (a pair of Aces)
+dagestan505: shows [Qh Ac] (two pair, Aces and Queens)
+dagestan505 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kh Ad 4h 6s Qd]
+Seat 1: Budulay6776 (big blind) folded on the Flop
+Seat 3: scuipio (button) showed [5d Ah] and lost with a pair of Aces
+Seat 6: dagestan505 (small blind) showed [Qh Ac] and won ($0.29) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #87576504849:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:03:10 ET
+Table 'Hersilia' 6-max Seat #6 is the button
+Seat 1: Budulay6776 ($0.19 in chips) 
+Seat 3: scuipio ($0.29 in chips) 
+Seat 6: dagestan505 ($1.28 in chips) 
+Budulay6776: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Ks 4h]
+dagestan505: folds 
+Budulay6776: calls $0.01
+scuipio: checks 
+*** FLOP *** [3c 7h 4d]
+Budulay6776: checks 
+scuipio: bets $0.02
+Budulay6776: folds 
+Uncalled bet ($0.02) returned to scuipio
+scuipio collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c 7h 4d]
+Seat 1: Budulay6776 (small blind) folded on the Flop
+Seat 3: scuipio (big blind) collected ($0.04)
+Seat 6: dagestan505 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #87576510872:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:03:34 ET
+Table 'Hersilia' 6-max Seat #1 is the button
+Seat 1: Budulay6776 ($0.17 in chips) 
+Seat 3: scuipio ($0.31 in chips) 
+Seat 6: dagestan505 ($1.28 in chips) 
+scuipio: posts small blind $0.01
+dagestan505: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [9d 6c]
+Budulay6776: calls $0.02
+scuipio: folds 
+dagestan505: checks 
+*** FLOP *** [Ah Qc 2d]
+dagestan505: checks 
+Budulay6776: checks 
+*** TURN *** [Ah Qc 2d] [9h]
+dagestan505: checks 
+Budulay6776: bets $0.04
+dagestan505: folds 
+Uncalled bet ($0.04) returned to Budulay6776
+Budulay6776 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah Qc 2d 9h]
+Seat 1: Budulay6776 (button) collected ($0.05)
+Seat 3: scuipio (small blind) folded before Flop
+Seat 6: dagestan505 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #87576515616:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:03:52 ET
+Table 'Hersilia' 6-max Seat #3 is the button
+Seat 1: Budulay6776 ($0.20 in chips) 
+Seat 3: scuipio ($0.30 in chips) 
+Seat 6: dagestan505 ($1.26 in chips) 
+dagestan505: posts small blind $0.01
+Budulay6776: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [8s Tc]
+scuipio: folds 
+dagestan505: calls $0.01
+Budulay6776: checks 
+*** FLOP *** [2c Jd 7c]
+dagestan505: checks 
+Budulay6776: checks 
+*** TURN *** [2c Jd 7c] [6c]
+dagestan505: checks 
+Budulay6776: bets $0.04
+dagestan505: folds 
+Uncalled bet ($0.04) returned to Budulay6776
+Budulay6776 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2c Jd 7c 6c]
+Seat 1: Budulay6776 (big blind) collected ($0.04)
+Seat 3: scuipio (button) folded before Flop (didn't bet)
+Seat 6: dagestan505 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #87576522071:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:04:16 ET
+Table 'Hersilia' 6-max Seat #6 is the button
+Seat 1: Budulay6776 ($0.22 in chips) 
+Seat 3: scuipio ($0.30 in chips) 
+Seat 6: dagestan505 ($1.24 in chips) 
+Budulay6776: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Qd 5h]
+dagestan505: folds 
+Budulay6776: calls $0.01
+scuipio: checks 
+*** FLOP *** [7h 6s 7d]
+Budulay6776: checks 
+scuipio: bets $0.02
+Budulay6776: calls $0.02
+*** TURN *** [7h 6s 7d] [Ac]
+Budulay6776: checks 
+scuipio: bets $0.04
+Budulay6776: raises $0.04 to $0.08
+scuipio: folds 
+Uncalled bet ($0.04) returned to Budulay6776
+Budulay6776 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7h 6s 7d Ac]
+Seat 1: Budulay6776 (small blind) collected ($0.15)
+Seat 3: scuipio (big blind) folded on the Turn
+Seat 6: dagestan505 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #87576530383:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:04:47 ET
+Table 'Hersilia' 6-max Seat #1 is the button
+Seat 1: Budulay6776 ($0.29 in chips) 
+Seat 3: scuipio ($0.22 in chips) 
+Seat 6: dagestan505 ($1.24 in chips) 
+scuipio: posts small blind $0.01
+dagestan505: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [7h 2h]
+Budulay6776: calls $0.02
+scuipio: calls $0.01
+dagestan505: checks 
+*** FLOP *** [8d 6h Jc]
+scuipio: checks 
+dagestan505: checks 
+Budulay6776: checks 
+*** TURN *** [8d 6h Jc] [Ts]
+scuipio: checks 
+dagestan505: checks 
+Budulay6776: bets $0.04
+scuipio: folds 
+dagestan505: folds 
+Uncalled bet ($0.04) returned to Budulay6776
+szat666an joins the table at seat #2 
+Budulay6776 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8d 6h Jc Ts]
+Seat 1: Budulay6776 (button) collected ($0.06)
+Seat 3: scuipio (small blind) folded on the Turn
+Seat 6: dagestan505 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #87576536324:  Hold'em Limit ($0.02/$0.04 USD) - 2012/10/13 2:05:09 ET
+Table 'Hersilia' 6-max Seat #3 is the button
+Seat 1: Budulay6776 ($0.33 in chips) 
+Seat 3: scuipio ($0.20 in chips) 
+Seat 6: dagestan505 ($1.22 in chips) 
+dagestan505: posts small blind $0.01
+Budulay6776: posts big blind $0.02
+szat666an: sits out 
+*** HOLE CARDS ***
+Dealt to scuipio [Ac Kd]
+scuipio: raises $0.02 to $0.04
+dagestan505: folds 
+Budulay6776: calls $0.02
+*** FLOP *** [6s Qh As]
+dagestan505 leaves the table
+Budulay6776: checks 
+scuipio: checks 
+*** TURN *** [6s Qh As] [4c]
+Budulay6776: checks 
+scuipio: bets $0.04
+Budulay6776: calls $0.04
+*** RIVER *** [6s Qh As 4c] [8s]
+Budulay6776: bets $0.04
+scuipio: raises $0.04 to $0.08
+Budulay6776: raises $0.04 to $0.12
+scuipio: calls $0.04 and is all-in
+*** SHOW DOWN ***
+Budulay6776: shows [2s 9s] (a flush, Ace high)
+scuipio: shows [Ac Kd] (a pair of Aces)
+Budulay6776 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [6s Qh As 4c 8s]
+Seat 1: Budulay6776 (big blind) showed [2s 9s] and won ($0.40) with a flush, Ace high
+Seat 3: scuipio (button) showed [Ac Kd] and lost with a pair of Aces
+Seat 6: dagestan505 (small blind) folded before Flop
+
+
+

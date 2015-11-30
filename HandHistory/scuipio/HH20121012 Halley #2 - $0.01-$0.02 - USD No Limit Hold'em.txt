@@ -1,0 +1,990 @@
+﻿PokerStars Zoom Hand #87574114170:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:40:28 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: TheArmenio ($4.08 in chips) 
+Seat 2: Namico_crazy ($6 in chips) 
+Seat 3: scuipio ($1.20 in chips) 
+Seat 4: MxS7HGS ($3.08 in chips) 
+Seat 5: kxkazz ($2.56 in chips) 
+Seat 6: tosic.tmb ($0.85 in chips) 
+Namico_crazy: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [9c 2d]
+MxS7HGS: folds 
+kxkazz: folds 
+tosic.tmb: folds 
+TheArmenio: folds 
+Namico_crazy: folds 
+Uncalled bet ($0.01) returned to scuipio
+scuipio collected $0.02 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: TheArmenio (button) folded before Flop (didn't bet)
+Seat 2: Namico_crazy (small blind) folded before Flop
+Seat 3: scuipio (big blind) collected ($0.02)
+Seat 4: MxS7HGS folded before Flop (didn't bet)
+Seat 5: kxkazz folded before Flop (didn't bet)
+Seat 6: tosic.tmb folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574117216:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:40:37 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: chickenbumz ($1.54 in chips) 
+Seat 2: scuipio ($1.21 in chips) 
+Seat 3: toropiga87 ($2 in chips) 
+Seat 4: tiro surdo ($0.40 in chips) 
+Seat 5: doukass_10 ($1.50 in chips) 
+Seat 6: wildalexxl ($1.03 in chips) 
+scuipio: posts small blind $0.01
+toropiga87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Kd 4d]
+tiro surdo: folds 
+doukass_10: folds 
+wildalexxl: folds 
+chickenbumz: folds 
+scuipio: calls $0.01
+toropiga87: checks 
+*** FLOP *** [9h 9c 6c]
+scuipio: checks 
+toropiga87: checks 
+*** TURN *** [9h 9c 6c] [3c]
+scuipio: checks 
+toropiga87: checks 
+*** RIVER *** [9h 9c 6c 3c] [Qc]
+scuipio: bets $0.04
+toropiga87: folds 
+Uncalled bet ($0.04) returned to scuipio
+scuipio collected $0.04 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9h 9c 6c 3c Qc]
+Seat 1: chickenbumz (button) folded before Flop (didn't bet)
+Seat 2: scuipio (small blind) collected ($0.04)
+Seat 3: toropiga87 (big blind) folded on the River
+Seat 4: tiro surdo folded before Flop (didn't bet)
+Seat 5: doukass_10 folded before Flop (didn't bet)
+Seat 6: wildalexxl folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574133013:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:26 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: prototip26 ($1.03 in chips) 
+Seat 2: scuipio ($1.23 in chips) 
+Seat 3: movingflush ($1.70 in chips) 
+Seat 4: yhump ($4.22 in chips) 
+Seat 5: yosherman ($1.07 in chips) 
+Seat 6: evnikesh ($4.56 in chips) 
+scuipio: posts small blind $0.01
+movingflush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Jd 3s]
+yhump: folds 
+yosherman: folds 
+evnikesh: folds 
+prototip26: folds 
+scuipio: folds 
+Uncalled bet ($0.01) returned to movingflush
+movingflush collected $0.02 from pot
+movingflush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: prototip26 (button) folded before Flop (didn't bet)
+Seat 2: scuipio (small blind) folded before Flop
+Seat 3: movingflush (big blind) collected ($0.02)
+Seat 4: yhump folded before Flop (didn't bet)
+Seat 5: yosherman folded before Flop (didn't bet)
+Seat 6: evnikesh folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574127155:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:07 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: scuipio ($1.23 in chips) 
+Seat 2: saphire49 ($1.46 in chips) 
+Seat 3: Pokercosi ($1.84 in chips) 
+Seat 4: akina8888 ($2.18 in chips) 
+Seat 5: murilostein ($1.73 in chips) 
+Seat 6: kretz10 ($2.90 in chips) 
+saphire49: posts small blind $0.01
+Pokercosi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [8h Ks]
+akina8888: folds 
+murilostein: raises $0.02 to $0.04
+kretz10: folds 
+scuipio: folds 
+saphire49: folds 
+Pokercosi: calls $0.02
+*** FLOP *** [Td 4h 4d]
+Pokercosi: checks 
+murilostein: bets $0.06
+Pokercosi: folds 
+Uncalled bet ($0.06) returned to murilostein
+murilostein collected $0.09 from pot
+murilostein: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td 4h 4d]
+Seat 1: scuipio (button) folded before Flop (didn't bet)
+Seat 2: saphire49 (small blind) folded before Flop
+Seat 3: Pokercosi (big blind) folded on the Flop
+Seat 4: akina8888 folded before Flop (didn't bet)
+Seat 5: murilostein collected ($0.09)
+Seat 6: kretz10 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574130155:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:16 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: yosherman ($1.07 in chips) 
+Seat 2: hunterkid107 ($4.32 in chips) 
+Seat 3: kretz10 ($5.59 in chips) 
+Seat 4: winky82 ($5.17 in chips) 
+Seat 5: scuipio ($1.23 in chips) 
+Seat 6: Namico_crazy ($2.33 in chips) 
+hunterkid107: posts small blind $0.01
+kretz10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [5s 7h]
+winky82: raises $0.02 to $0.04
+scuipio: folds 
+Namico_crazy: folds 
+yosherman: folds 
+hunterkid107: folds 
+kretz10: calls $0.02
+*** FLOP *** [Ad Th 2c]
+kretz10: checks 
+winky82: bets $0.06
+kretz10: calls $0.06
+*** TURN *** [Ad Th 2c] [Jh]
+kretz10: checks 
+winky82: bets $0.12
+kretz10: folds 
+Uncalled bet ($0.12) returned to winky82
+winky82 collected $0.20 from pot
+winky82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ad Th 2c Jh]
+Seat 1: yosherman (button) folded before Flop (didn't bet)
+Seat 2: hunterkid107 (small blind) folded before Flop
+Seat 3: kretz10 (big blind) folded on the Turn
+Seat 4: winky82 collected ($0.20)
+Seat 5: scuipio folded before Flop (didn't bet)
+Seat 6: Namico_crazy folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574136009:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:35 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: thorctba34 ($7.10 in chips) 
+Seat 2: lucasgflush1 ($2.12 in chips) 
+Seat 3: scuipio ($1.22 in chips) 
+Seat 4: Dr.evin450 ($3.35 in chips) 
+Seat 5: earn888_Jim ($2.14 in chips) 
+Seat 6: meneeltucu ($2.82 in chips) 
+lucasgflush1: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [6h 2s]
+Dr.evin450: folds 
+earn888_Jim: folds 
+meneeltucu: folds 
+thorctba34: folds 
+lucasgflush1: folds 
+Uncalled bet ($0.01) returned to scuipio
+scuipio collected $0.02 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: thorctba34 (button) folded before Flop (didn't bet)
+Seat 2: lucasgflush1 (small blind) folded before Flop
+Seat 3: scuipio (big blind) collected ($0.02)
+Seat 4: Dr.evin450 folded before Flop (didn't bet)
+Seat 5: earn888_Jim folded before Flop (didn't bet)
+Seat 6: meneeltucu folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574134707:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:31 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: scuipio ($1.22 in chips) 
+Seat 2: vuatvuk ($4.21 in chips) 
+Seat 3: 7Olexsandr7 ($6.19 in chips) 
+Seat 4: yosherman ($1.07 in chips) 
+Seat 5: yhump ($4.22 in chips) 
+Seat 6: malah0ff ($8.01 in chips) 
+vuatvuk: posts small blind $0.01
+7Olexsandr7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Js 8h]
+yosherman: folds 
+yhump: folds 
+malah0ff: calls $0.02
+scuipio: folds 
+vuatvuk: folds 
+7Olexsandr7: checks 
+*** FLOP *** [7c Th Qs]
+7Olexsandr7: checks 
+malah0ff: checks 
+*** TURN *** [7c Th Qs] [Tc]
+7Olexsandr7: bets $0.03
+malah0ff: calls $0.03
+*** RIVER *** [7c Th Qs Tc] [Ks]
+7Olexsandr7: bets $0.08
+malah0ff: folds 
+Uncalled bet ($0.08) returned to 7Olexsandr7
+7Olexsandr7 collected $0.11 from pot
+7Olexsandr7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c Th Qs Tc Ks]
+Seat 1: scuipio (button) folded before Flop (didn't bet)
+Seat 2: vuatvuk (small blind) folded before Flop
+Seat 3: 7Olexsandr7 (big blind) collected ($0.11)
+Seat 4: yosherman folded before Flop (didn't bet)
+Seat 5: yhump folded before Flop (didn't bet)
+Seat 6: malah0ff folded on the River
+
+
+
+PokerStars Zoom Hand #87574131771:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:22 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: tosic.tmb ($1.20 in chips) 
+Seat 2: dimamasta ($2.14 in chips) 
+Seat 3: jonik777606 ($2 in chips) 
+Seat 4: dillervp ($1.47 in chips) 
+Seat 5: kretz10 ($2.90 in chips) 
+Seat 6: scuipio ($1.23 in chips) 
+dimamasta: posts small blind $0.01
+jonik777606: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [6s 9d]
+dillervp: raises $0.04 to $0.06
+kretz10: raises $0.14 to $0.20
+scuipio: folds 
+tosic.tmb: folds 
+dimamasta: folds 
+jonik777606: folds 
+dillervp: calls $0.14
+*** FLOP *** [5h 3c Ac]
+dillervp: checks 
+kretz10: checks 
+*** TURN *** [5h 3c Ac] [Ad]
+dillervp: bets $0.30
+kretz10: calls $0.30
+*** RIVER *** [5h 3c Ac Ad] [Jc]
+dillervp: checks 
+kretz10: checks 
+*** SHOW DOWN ***
+dillervp: shows [4c 4d] (two pair, Aces and Fours)
+kretz10: shows [Kc Ks] (two pair, Aces and Kings)
+kretz10 collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [5h 3c Ac Ad Jc]
+Seat 1: tosic.tmb (button) folded before Flop (didn't bet)
+Seat 2: dimamasta (small blind) folded before Flop
+Seat 3: jonik777606 (big blind) folded before Flop
+Seat 4: dillervp showed [4c 4d] and lost with two pair, Aces and Fours
+Seat 5: kretz10 showed [Kc Ks] and won ($0.99) with two pair, Aces and Kings
+Seat 6: scuipio folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574139346:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:41:45 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: deeliss ($4.15 in chips) 
+Seat 2: Fity04 ($0.99 in chips) 
+Seat 3: vip00001 ($1 in chips) 
+Seat 4: lucasgflush1 ($2.11 in chips) 
+Seat 5: Pokercosi ($1.75 in chips) 
+Seat 6: scuipio ($1.23 in chips) 
+Fity04: posts small blind $0.01
+vip00001: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Ks Ac]
+lucasgflush1: folds 
+Pokercosi: calls $0.02
+scuipio: raises $0.06 to $0.08
+deeliss: calls $0.08
+Fity04: folds 
+vip00001: folds 
+Pokercosi: calls $0.06
+*** FLOP *** [8s Js 4s]
+Pokercosi: checks 
+scuipio: bets $0.10
+deeliss: calls $0.10
+Pokercosi: folds 
+*** TURN *** [8s Js 4s] [6d]
+scuipio: bets $0.18
+deeliss: folds 
+Uncalled bet ($0.18) returned to scuipio
+scuipio collected $0.45 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8s Js 4s 6d]
+Seat 1: deeliss (button) folded on the Turn
+Seat 2: Fity04 (small blind) folded before Flop
+Seat 3: vip00001 (big blind) folded before Flop
+Seat 4: lucasgflush1 folded before Flop (didn't bet)
+Seat 5: Pokercosi folded on the Flop
+Seat 6: scuipio collected ($0.45)
+
+
+
+PokerStars Zoom Hand #87574151595:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:42:22 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: Severny72 ($2 in chips) 
+Seat 2: MonikaAriana ($11.91 in chips) 
+Seat 3: HiFUN ($1 in chips) 
+Seat 4: zamirb87 ($5.25 in chips) 
+Seat 5: scuipio ($1.50 in chips) 
+Seat 6: b.z.93 ($1.62 in chips) 
+MonikaAriana: posts small blind $0.01
+HiFUN: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Kc Jh]
+zamirb87: folds 
+scuipio: calls $0.02
+b.z.93: folds 
+Severny72: folds 
+MonikaAriana: calls $0.01
+HiFUN: checks 
+*** FLOP *** [2c 6c 6s]
+MonikaAriana: checks 
+HiFUN: checks 
+scuipio: checks 
+*** TURN *** [2c 6c 6s] [2h]
+MonikaAriana: checks 
+HiFUN: checks 
+scuipio: checks 
+*** RIVER *** [2c 6c 6s 2h] [4s]
+MonikaAriana: bets $0.06
+HiFUN: folds 
+scuipio: folds 
+Uncalled bet ($0.06) returned to MonikaAriana
+MonikaAriana collected $0.06 from pot
+MonikaAriana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2c 6c 6s 2h 4s]
+Seat 1: Severny72 (button) folded before Flop (didn't bet)
+Seat 2: MonikaAriana (small blind) collected ($0.06)
+Seat 3: HiFUN (big blind) folded on the River
+Seat 4: zamirb87 folded before Flop (didn't bet)
+Seat 5: scuipio folded on the River
+Seat 6: b.z.93 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574159165:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:42:46 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: scuipio ($1.48 in chips) 
+Seat 2: rachjord ($2.97 in chips) 
+Seat 3: sandman24456 ($2.41 in chips) 
+Seat 4: deeliss ($3.91 in chips) 
+Seat 5: kxkazz ($3.10 in chips) 
+Seat 6: 19StRefa20 ($1.62 in chips) 
+rachjord: posts small blind $0.01
+sandman24456: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [8s 5d]
+deeliss: folds 
+kxkazz: raises $0.04 to $0.06
+19StRefa20: folds 
+scuipio: folds 
+rachjord has timed out while disconnected
+rachjord: folds 
+sandman24456: folds 
+Uncalled bet ($0.04) returned to kxkazz
+kxkazz collected $0.05 from pot
+kxkazz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: scuipio (button) folded before Flop (didn't bet)
+Seat 2: rachjord (small blind) folded before Flop
+Seat 3: sandman24456 (big blind) folded before Flop
+Seat 4: deeliss folded before Flop (didn't bet)
+Seat 5: kxkazz collected ($0.05)
+Seat 6: 19StRefa20 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574162104:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:42:55 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: Inhoteps ($0.93 in chips) 
+Seat 2: Namico_crazy ($2.30 in chips) 
+Seat 3: w.soares87 ($2.39 in chips) 
+Seat 4: JoaoStrategy ($2.47 in chips) 
+Seat 5: scuipio ($1.48 in chips) 
+Seat 6: Dobryi Pes ($1.11 in chips) 
+Namico_crazy: posts small blind $0.01
+w.soares87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [4h 5h]
+JoaoStrategy: folds 
+scuipio: calls $0.02
+Dobryi Pes: folds 
+Inhoteps: folds 
+Namico_crazy: folds 
+w.soares87: checks 
+*** FLOP *** [Th Qd 7h]
+w.soares87: checks 
+scuipio: bets $0.04
+w.soares87: folds 
+Uncalled bet ($0.04) returned to scuipio
+scuipio collected $0.05 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Th Qd 7h]
+Seat 1: Inhoteps (button) folded before Flop (didn't bet)
+Seat 2: Namico_crazy (small blind) folded before Flop
+Seat 3: w.soares87 (big blind) folded on the Flop
+Seat 4: JoaoStrategy folded before Flop (didn't bet)
+Seat 5: scuipio collected ($0.05)
+Seat 6: Dobryi Pes folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574160864:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:42:51 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: hunterkid107 ($1.63 in chips) 
+Seat 2: pipefocker ($3.88 in chips) 
+Seat 3: TheArmenio ($3.16 in chips) 
+Seat 4: scuipio ($1.48 in chips) 
+Seat 5: Diego Gonz ($1.28 in chips) 
+Seat 6: kani1212 ($7.17 in chips) 
+pipefocker: posts small blind $0.01
+TheArmenio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [7c 6h]
+scuipio: folds 
+Diego Gonz: folds 
+kani1212: calls $0.02
+hunterkid107: calls $0.02
+pipefocker: folds 
+TheArmenio: checks 
+*** FLOP *** [4d 8d Qc]
+TheArmenio: bets $0.04
+kani1212: folds 
+hunterkid107: folds 
+Uncalled bet ($0.04) returned to TheArmenio
+TheArmenio collected $0.07 from pot
+TheArmenio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d 8d Qc]
+Seat 1: hunterkid107 (button) folded on the Flop
+Seat 2: pipefocker (small blind) folded before Flop
+Seat 3: TheArmenio (big blind) collected ($0.07)
+Seat 4: scuipio folded before Flop (didn't bet)
+Seat 5: Diego Gonz folded before Flop (didn't bet)
+Seat 6: kani1212 folded on the Flop
+
+
+
+PokerStars Zoom Hand #87574174062:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:43:31 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: deeliss ($3.87 in chips) 
+Seat 2: scuipio ($1.49 in chips) 
+Seat 3: peno4ka777 ($0.95 in chips) 
+Seat 4: TheArmenio ($3.21 in chips) 
+Seat 5: Maya Purple ($4.81 in chips) 
+Seat 6: xiaomao168 ($1.77 in chips) 
+scuipio: posts small blind $0.01
+peno4ka777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Ks 5s]
+TheArmenio: folds 
+Maya Purple: raises $0.04 to $0.06
+xiaomao168: folds 
+deeliss: folds 
+scuipio: folds 
+peno4ka777: folds 
+Uncalled bet ($0.04) returned to Maya Purple
+Maya Purple collected $0.05 from pot
+Maya Purple: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: deeliss (button) folded before Flop (didn't bet)
+Seat 2: scuipio (small blind) folded before Flop
+Seat 3: peno4ka777 (big blind) folded before Flop
+Seat 4: TheArmenio folded before Flop (didn't bet)
+Seat 5: Maya Purple collected ($0.05)
+Seat 6: xiaomao168 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574167432:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:43:11 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: costanzajpeg ($2.02 in chips) 
+Seat 2: yosherman ($1.18 in chips) 
+Seat 3: scuipio ($1.51 in chips) 
+Seat 4: Dobryi Pes ($1.09 in chips) 
+Seat 5: akuzza999 ($1.85 in chips) 
+Seat 6: craig121212 ($2 in chips) 
+yosherman: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [5s Qc]
+Dobryi Pes: calls $0.02
+akuzza999: folds 
+craig121212: folds 
+costanzajpeg: folds 
+yosherman: calls $0.01
+scuipio: checks 
+*** FLOP *** [8c Jd Js]
+yosherman: bets $0.04
+scuipio: folds 
+Dobryi Pes: calls $0.04
+*** TURN *** [8c Jd Js] [Ac]
+yosherman: bets $0.07
+Dobryi Pes: calls $0.07
+*** RIVER *** [8c Jd Js Ac] [8s]
+yosherman: bets $0.14
+Dobryi Pes: folds 
+Uncalled bet ($0.14) returned to yosherman
+yosherman collected $0.27 from pot
+yosherman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8c Jd Js Ac 8s]
+Seat 1: costanzajpeg (button) folded before Flop (didn't bet)
+Seat 2: yosherman (small blind) collected ($0.27)
+Seat 3: scuipio (big blind) folded on the Flop
+Seat 4: Dobryi Pes folded on the River
+Seat 5: akuzza999 folded before Flop (didn't bet)
+Seat 6: craig121212 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574177256:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:43:41 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: MartinCABJ ($1.73 in chips) 
+Seat 2: craig121212 ($2.59 in chips) 
+Seat 3: raplika ($2.55 in chips) 
+Seat 4: lucasgflush1 ($2 in chips) 
+Seat 5: kempalshik ($1.47 in chips) 
+Seat 6: scuipio ($1.48 in chips) 
+craig121212: posts small blind $0.01
+raplika: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [2c 2h]
+lucasgflush1: folds 
+kempalshik: raises $0.06 to $0.08
+scuipio: calls $0.08
+MartinCABJ: folds 
+craig121212: calls $0.07
+raplika: folds 
+*** FLOP *** [8s 3d 5c]
+craig121212: checks 
+kempalshik: checks 
+scuipio: bets $0.08
+craig121212: folds 
+kempalshik: calls $0.08
+*** TURN *** [8s 3d 5c] [Td]
+kempalshik: checks 
+scuipio: checks 
+*** RIVER *** [8s 3d 5c Td] [2d]
+kempalshik: bets $0.12
+scuipio: raises $0.24 to $0.36
+kempalshik: folds 
+Uncalled bet ($0.24) returned to scuipio
+scuipio collected $0.64 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [8s 3d 5c Td 2d]
+Seat 1: MartinCABJ (button) folded before Flop (didn't bet)
+Seat 2: craig121212 (small blind) folded on the Flop
+Seat 3: raplika (big blind) folded before Flop
+Seat 4: lucasgflush1 folded before Flop (didn't bet)
+Seat 5: kempalshik folded on the River
+Seat 6: scuipio collected ($0.64)
+
+
+
+PokerStars Zoom Hand #87574208219:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:45:16 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: bebopsweety ($2 in chips) 
+Seat 2: rafallanz ($2.10 in chips) 
+Seat 3: $$$PRIORS59 ($0.63 in chips) 
+Seat 4: vuatvuk ($4.04 in chips) 
+Seat 5: scuipio ($1.84 in chips) 
+Seat 6: Lethrox ($2 in chips) 
+rafallanz: posts small blind $0.01
+$$$PRIORS59: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [As Qd]
+vuatvuk: folds 
+scuipio: raises $0.04 to $0.06
+Lethrox: folds 
+bebopsweety: folds 
+rafallanz: folds 
+$$$PRIORS59: folds 
+Uncalled bet ($0.04) returned to scuipio
+scuipio collected $0.05 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bebopsweety (button) folded before Flop (didn't bet)
+Seat 2: rafallanz (small blind) folded before Flop
+Seat 3: $$$PRIORS59 (big blind) folded before Flop
+Seat 4: vuatvuk folded before Flop (didn't bet)
+Seat 5: scuipio collected ($0.05)
+Seat 6: Lethrox folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574204816:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:45:06 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: yosherman ($1.08 in chips) 
+Seat 2: thorctba34 ($2.41 in chips) 
+Seat 3: serb4ever ($3.50 in chips) 
+Seat 4: scuipio ($1.84 in chips) 
+Seat 5: Dobryi Pes ($1.09 in chips) 
+Seat 6: Ramediem ($3.78 in chips) 
+thorctba34: posts small blind $0.01
+serb4ever: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Qd 8s]
+scuipio: folds 
+Dobryi Pes: calls $0.02
+Ramediem: folds 
+yosherman: folds 
+thorctba34: folds 
+serb4ever: raises $0.10 to $0.12
+Dobryi Pes: folds 
+Uncalled bet ($0.10) returned to serb4ever
+serb4ever collected $0.05 from pot
+serb4ever: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: yosherman (button) folded before Flop (didn't bet)
+Seat 2: thorctba34 (small blind) folded before Flop
+Seat 3: serb4ever (big blind) collected ($0.05)
+Seat 4: scuipio folded before Flop (didn't bet)
+Seat 5: Dobryi Pes folded before Flop
+Seat 6: Ramediem folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574206497:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:45:11 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: scuipio ($1.84 in chips) 
+Seat 2: Fancey C ($1.41 in chips) 
+Seat 3: xiaomao168 ($1.86 in chips) 
+Seat 4: $$$PRIORS59 ($0.60 in chips) 
+Seat 5: evnikesh ($4.47 in chips) 
+Seat 6: I!IAPuKOB ($3.74 in chips) 
+Fancey C: posts small blind $0.01
+xiaomao168: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [2s 6d]
+$$$PRIORS59: folds 
+evnikesh: folds 
+I!IAPuKOB: raises $0.04 to $0.06
+scuipio: folds 
+Fancey C: folds 
+xiaomao168: calls $0.04
+*** FLOP *** [Ks Jd As]
+xiaomao168: checks 
+I!IAPuKOB: bets $0.07
+xiaomao168: calls $0.07
+*** TURN *** [Ks Jd As] [Ac]
+xiaomao168: checks 
+I!IAPuKOB: checks 
+*** RIVER *** [Ks Jd As Ac] [3d]
+xiaomao168: checks 
+I!IAPuKOB: checks 
+*** SHOW DOWN ***
+xiaomao168: shows [Js Qs] (two pair, Aces and Jacks)
+I!IAPuKOB: mucks hand 
+xiaomao168 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ks Jd As Ac 3d]
+Seat 1: scuipio (button) folded before Flop (didn't bet)
+Seat 2: Fancey C (small blind) folded before Flop
+Seat 3: xiaomao168 (big blind) showed [Js Qs] and won ($0.26) with two pair, Aces and Jacks
+Seat 4: $$$PRIORS59 folded before Flop (didn't bet)
+Seat 5: evnikesh folded before Flop (didn't bet)
+Seat 6: I!IAPuKOB mucked [4c 4s]
+
+
+
+PokerStars Zoom Hand #87574213276:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:45:31 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: rafallanz ($2.09 in chips) 
+Seat 2: jonik777606 ($1.97 in chips) 
+Seat 3: scuipio ($1.87 in chips) 
+Seat 4: sandman24456 ($2.21 in chips) 
+Seat 5: Drazen NRG ($2.09 in chips) 
+Seat 6: hunterkid107 ($2.97 in chips) 
+jonik777606: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Td Kh]
+sandman24456: calls $0.02
+Drazen NRG: folds 
+hunterkid107: folds 
+rafallanz: folds 
+jonik777606: folds 
+scuipio: checks 
+*** FLOP *** [8h 9s 6d]
+scuipio: checks 
+sandman24456: checks 
+*** TURN *** [8h 9s 6d] [4s]
+scuipio: checks 
+sandman24456: checks 
+*** RIVER *** [8h 9s 6d 4s] [Ad]
+scuipio: checks 
+sandman24456: checks 
+*** SHOW DOWN ***
+scuipio: shows [Td Kh] (high card Ace)
+sandman24456: shows [Kd Jd] (high card Ace - King+Jack kicker)
+sandman24456 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 9s 6d 4s Ad]
+Seat 1: rafallanz (button) folded before Flop (didn't bet)
+Seat 2: jonik777606 (small blind) folded before Flop
+Seat 3: scuipio (big blind) showed [Td Kh] and lost with high card Ace
+Seat 4: sandman24456 showed [Kd Jd] and won ($0.05) with high card Ace
+Seat 5: Drazen NRG folded before Flop (didn't bet)
+Seat 6: hunterkid107 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574219361:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:45:49 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: costanzajpeg ($2 in chips) 
+Seat 2: scuipio ($1.85 in chips) 
+Seat 3: O.dewar ($0.84 in chips) 
+Seat 4: sandrrrs ($0.78 in chips) 
+Seat 5: sandman24456 ($2.24 in chips) 
+Seat 6: serb4ever ($3.53 in chips) 
+scuipio: posts small blind $0.01
+O.dewar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [As 2c]
+sandrrrs: raises $0.02 to $0.04
+sandman24456: folds 
+serb4ever: folds 
+costanzajpeg: folds 
+scuipio: calls $0.03
+O.dewar: raises $0.04 to $0.08
+sandrrrs: calls $0.04
+scuipio: folds 
+*** FLOP *** [3h 5s Qc]
+O.dewar: bets $0.08
+sandrrrs: folds 
+Uncalled bet ($0.08) returned to O.dewar
+O.dewar collected $0.19 from pot
+O.dewar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3h 5s Qc]
+Seat 1: costanzajpeg (button) folded before Flop (didn't bet)
+Seat 2: scuipio (small blind) folded before Flop
+Seat 3: O.dewar (big blind) collected ($0.19)
+Seat 4: sandrrrs folded on the Flop
+Seat 5: sandman24456 folded before Flop (didn't bet)
+Seat 6: serb4ever folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574223636:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:46:02 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: TheArmenio ($5.09 in chips) 
+Seat 2: costanzajpeg ($2 in chips) 
+Seat 3: mau_bossBR ($0.44 in chips) 
+Seat 4: melo55555 ($2.17 in chips) 
+Seat 5: scuipio ($1.81 in chips) 
+Seat 6: Inhoteps ($0.94 in chips) 
+costanzajpeg: posts small blind $0.01
+mau_bossBR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [4h 4d]
+melo55555: folds 
+scuipio: calls $0.02
+Inhoteps: folds 
+TheArmenio: folds 
+costanzajpeg: folds 
+mau_bossBR: raises $0.02 to $0.04
+scuipio: raises $0.08 to $0.12
+mau_bossBR: calls $0.08
+*** FLOP *** [8h 7c Jd]
+mau_bossBR: checks 
+scuipio: bets $0.10
+mau_bossBR: calls $0.10
+*** TURN *** [8h 7c Jd] [7s]
+mau_bossBR: checks 
+scuipio: bets $0.32
+mau_bossBR: folds 
+Uncalled bet ($0.32) returned to scuipio
+scuipio collected $0.43 from pot
+scuipio: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8h 7c Jd 7s]
+Seat 1: TheArmenio (button) folded before Flop (didn't bet)
+Seat 2: costanzajpeg (small blind) folded before Flop
+Seat 3: mau_bossBR (big blind) folded on the Turn
+Seat 4: melo55555 folded before Flop (didn't bet)
+Seat 5: scuipio collected ($0.43)
+Seat 6: Inhoteps folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574233983:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:46:34 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: scuipio ($2.02 in chips) 
+Seat 2: craig121212 ($2 in chips) 
+Seat 3: Namico_crazy ($2.06 in chips) 
+Seat 4: Everette_69 ($1.48 in chips) 
+Seat 5: LEGIONER000 ($1.72 in chips) 
+Seat 6: bebopsweety ($2 in chips) 
+craig121212: posts small blind $0.01
+Namico_crazy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [8h 7c]
+Everette_69: raises $1.46 to $1.48 and is all-in
+LEGIONER000: folds 
+bebopsweety: folds 
+scuipio: folds 
+craig121212: folds 
+Namico_crazy: folds 
+Uncalled bet ($1.46) returned to Everette_69
+Everette_69 collected $0.05 from pot
+Everette_69: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: scuipio (button) folded before Flop (didn't bet)
+Seat 2: craig121212 (small blind) folded before Flop
+Seat 3: Namico_crazy (big blind) folded before Flop
+Seat 4: Everette_69 collected ($0.05)
+Seat 5: LEGIONER000 folded before Flop (didn't bet)
+Seat 6: bebopsweety folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574235651:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:46:39 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: bennanimehdi ($3.54 in chips) 
+Seat 2: scuipio ($2.02 in chips) 
+Seat 3: wildalexxl ($1.77 in chips) 
+Seat 4: tosic.tmb ($0.35 in chips) 
+Seat 5: dmitry-eburg ($2.32 in chips) 
+Seat 6: toropiga87 ($2 in chips) 
+scuipio: posts small blind $0.01
+wildalexxl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Kd 2c]
+tosic.tmb: folds 
+dmitry-eburg: raises $0.05 to $0.07
+toropiga87: folds 
+bennanimehdi: folds 
+scuipio: folds 
+wildalexxl: folds 
+Uncalled bet ($0.05) returned to dmitry-eburg
+dmitry-eburg collected $0.05 from pot
+dmitry-eburg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bennanimehdi (button) folded before Flop (didn't bet)
+Seat 2: scuipio (small blind) folded before Flop
+Seat 3: wildalexxl (big blind) folded before Flop
+Seat 4: tosic.tmb folded before Flop (didn't bet)
+Seat 5: dmitry-eburg collected ($0.05)
+Seat 6: toropiga87 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574237277:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:46:44 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: tjhaatj ($1.21 in chips) 
+Seat 2: gellissystem ($2 in chips) 
+Seat 3: scuipio ($2.01 in chips) 
+Seat 4: TheArmenio ($3.03 in chips) 
+Seat 5: w.soares87 ($2.14 in chips) 
+Seat 6: earn888_Jim ($2 in chips) 
+gellissystem: posts small blind $0.01
+scuipio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [9c 7s]
+TheArmenio: folds 
+w.soares87: folds 
+earn888_Jim: folds 
+tjhaatj: raises $0.04 to $0.06
+gellissystem: folds 
+scuipio: folds 
+Uncalled bet ($0.04) returned to tjhaatj
+tjhaatj collected $0.05 from pot
+tjhaatj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: tjhaatj (button) collected ($0.05)
+Seat 2: gellissystem (small blind) folded before Flop
+Seat 3: scuipio (big blind) folded before Flop
+Seat 4: TheArmenio folded before Flop (didn't bet)
+Seat 5: w.soares87 folded before Flop (didn't bet)
+Seat 6: earn888_Jim folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #87574240587:  Hold'em No Limit ($0.01/$0.02) - 2012/10/12 23:46:54 ET
+Table 'Halley' 6-max Seat #1 is the button
+Seat 1: SirJimothy ($2.31 in chips) 
+Seat 2: huguinho_29 ($1.35 in chips) 
+Seat 3: TheArmenio ($3.35 in chips) 
+Seat 4: dimamasta ($2 in chips) 
+Seat 5: mtlman7 ($1.95 in chips) 
+Seat 6: scuipio ($1.99 in chips) 
+huguinho_29: posts small blind $0.01
+TheArmenio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to scuipio [Jc Tc]
+dimamasta: raises $0.04 to $0.06
+mtlman7: folds 
+scuipio: calls $0.06
+SirJimothy: folds 
+huguinho_29: folds 
+TheArmenio: folds 
+*** FLOP *** [8c Ah Td]
+dimamasta: bets $0.10
+scuipio: raises $0.10 to $0.20
+dimamasta: calls $0.10
+*** TURN *** [8c Ah Td] [Th]
+dimamasta: checks 
+scuipio: bets $0.12
+dimamasta: calls $0.12
+*** RIVER *** [8c Ah Td Th] [2h]
+dimamasta: checks 
+scuipio: bets $0.22
+dimamasta: calls $0.22
+*** SHOW DOWN ***
+scuipio: shows [Jc Tc] (three of a kind, Tens)
+dimamasta: mucks hand 
+scuipio collected $1.19 from pot
+scuipio is disconnected 
+*** SUMMARY ***
+Total pot $1.23 | Rake $0.04 
+Board [8c Ah Td Th 2h]
+Seat 1: SirJimothy (button) folded before Flop (didn't bet)
+Seat 2: huguinho_29 (small blind) folded before Flop
+Seat 3: TheArmenio (big blind) folded before Flop
+Seat 4: dimamasta mucked [Kd Ac]
+Seat 5: mtlman7 folded before Flop (didn't bet)
+Seat 6: scuipio showed [Jc Tc] and won ($1.19) with three of a kind, Tens
+
+
+
