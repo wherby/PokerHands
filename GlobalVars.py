@@ -1,0 +1,7 @@
+TEST = "GLOBALVaR"
+PREFLOP = "*** HOLE CARDS ***"
+FLOPSTR="*** FLOP ***"
+TURNSTR="*** TURN ***"
+RIVERSTR="*** RIVER ***"
+SHOWHANDSTR="*** SHOW DOWN ***"
+SUMMERSTR="*** SUMMARY ***"

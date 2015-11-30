@@ -1,5 +1,7 @@
-#import GlobalVars
+from  GlobalVars import *
+from pprint import pprint
 import re;
+
 class ReadFile:
     def __init__(self,fileName):
         self.fileName=fileName
@@ -44,14 +46,19 @@ class Hand:
     def __init__(self,lines):
         self.lines=lines.splitlines(True);
         self.heros=[]
+        self.type=""
+        self.time=""
         #print lines;
         self.states=[]
         self.summary=[]
 
     def getNumber(self):
-        m = re.match(r'(.*)(Hand #)(\d*)(:)(.*)', self.lines[0])
+        m = re.match(r'(.*)(Hand #)(\d*)(:)(.*?)(-)(.*)(Table)(.*)', self.lines[0])
         #print "m.group(1,2):", m.group(3)
         if m!=None:
+            self.type= m.group(5)
+            self.time= m.group(7)
+            #print "TESDTT", m.group(7)
             self.ID=m.group(3)
 
     def getHeros(self):
@@ -93,10 +100,7 @@ class Hand:
             
 
     def __str__(self):
-        temp="Heros :\n"
-        for hero in self.heros:
-            temp+="  "+hero+" \n"
-        return temp+ "Number: "+self.ID
+        pprint(vars(self))
 
 if __name__=="__main__":
     temp=ReadFile(".\HandHistory\scuipio\HH20121012 Halley - $0.01-$0.02 - USD No Limit Hold'em.txt")
@@ -110,6 +114,7 @@ if __name__=="__main__":
     a.getHeros();
     print a;
     a.getStates();
+    print TEST
     #print "states number of a: "+str(len(a.states))
     #print "summary of a: "+a.summary[0]
     
